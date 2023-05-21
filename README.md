@@ -2,8 +2,7 @@
 
 > 使用简易的方式通过Web3赋能文化与生活。
 
-![soyi](https://github.com/SoyiStudios/SOYI/assets/125456207/8788ad4f-3396-450c-8e97-11fdb10d011a)
-
+<img src="https://github.com/SoyiStudios/SOYI/assets/125456207/8788ad4f-3396-450c-8e97-11fdb10d011a" alt="soyi" style="zoom: 10%;" />
 
 ## Soyi指南针
 
